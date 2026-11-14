@@ -1,0 +1,19 @@
+El prompt usado: 
+
+Necesitamos crear una app con pantalla de inicio de sesion con la opcion de registrarse en la plataforma (se usara supabase para la base datos)
+Con la sesion de usuario activa, se debe mostrar un menu con las opciones:
+Perfil de usuario:
++Nombre completo
++Edad
++Numero de tarjeta de credito (ficitio) los digitos cifrados y los ultimos cuatro si se muestran
++fotografia 
+Lista de peliculas: crea una coleccion fija con peliculas de la saga de "The Purge" (al menos 4 peliculas)
+Se debe incluir el boton Rentar (para cada una) el cual debe dejar un registro de la pelicula rentada incluyendo la fecha rentada, y la fecha fin (la renta debe ser 3 dias (inicio a fin)
+
+Debe existir otro tipo de usuario con rol llamado Administrador el cual tendra las sigiuentes funcionalidades:
+agregar pelicula
+eliminar pelicula
+informe de rentas donde se mostrara los datos de las peliculas rentadas, el usuario que rento y la fecha (diseñalo como un pequeño dashboard para analytics)
+
+
+Crea el plan de accion, ejecuta el codigo y dame los pasos para completar la arquitectura sobre la base de datos
