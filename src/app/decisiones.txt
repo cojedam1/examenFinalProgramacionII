@@ -1,8 +1,7 @@
 +Lo que entendi con este proyecto/aplicacion es que se desea crear una plataforma como Netflix/Blockbuster, es una plataforma atraves de una aplicacion en la que las peliculas se encuentran disponibles, y se paga una renta para poder verla. 
 Tablas: 
-Tabla rentals, tabla , tabla 
+Tabla rentals, tabla movies , tabla profiles
 
 +A la IA se le delego la creacion/generacion del codigo; Porque: dada la complejidad de la aplicacion. Sin embargo se realizo una supervision para confirmar que el codigo no presentara errores cruciales, y se realizo un QA para garantizar que la aplicacion una vez desplegada funcionaria.
 
-+
-
++Se tuvo que correjir alucinaciones en cuanto al funcionamiento de la plataforma, por ejemplo, mi nombre lo mostraba como Carlos Alberto Sandoval (estos son los temas de proceso de QA a verificar antes de desplegar la aplicacion), y me di cuenta con el hecho de revisar la estabilidad y funcionalidad de la app, en lugar de solo dar un prompt, y asumir que todoe estaba ya completado.
